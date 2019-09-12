@@ -2,7 +2,9 @@
   "name": "blog-app-redux",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
+    "express-favicon": "^2.0.1",
     "fs": "0.0.1-security",
     "generate-password": "^1.4.2",
     "react": "^16.9.0",
